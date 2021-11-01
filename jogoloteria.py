@@ -1,5 +1,5 @@
 def loteria():
-  print('     **** BINGO ****')
+  print('     **** LOTERIA ****')
   print()
   num1 = input('Digite um número de 4 dígitos: ')
   if num1 .isnumeric():
